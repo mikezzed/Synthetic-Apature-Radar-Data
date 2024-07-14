@@ -1,8 +1,14 @@
-# Synthetic-Aperture-Radar-Data
-The remote sensing satellite company Umbra has released an open data program that 
+# Synthetic-Aperture-Radar-Data-Exploration
+The remote sensing satellite company Umbra has released over 7.4TB of SAR data gathered from their private satellite constellation. This project explores Umbra's open data program assuming no prior experience working with SAR data sets.
 
+### Project Overview
+Synthetic Aperture Radar is bla bla bla. it works by blabla bvla insert image links here to show images in markdown.
 
-Synthetic Aperture Radar is 
+Brief explination of what STAC is
+
+In this project we will:
+  - Download Umbra's STAC data and extract useful information to aid in exploration of all SAR assets.
+  - Plot SAR asset locations on world map and list location names.
 
 
 ---Give full description here of what SAR is, include some images of the different types of reflections and refractions and the types of data you can extract from this.
